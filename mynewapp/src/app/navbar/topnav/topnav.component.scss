@@ -1,0 +1,28 @@
+.topnav{
+    background: rgb(17, 170, 124);
+    color:rgb(16, 13, 196);
+    padding: 5px;
+    font-family: arial;
+}
+.brand{
+    float:left;
+    width:20%;
+    font-weight: 700;
+}
+
+.toplinks{
+float: right;
+width: 80%; 
+text-align: right;
+}
+
+.toplinks a {
+    color:rgb(184, 181, 18);
+    margin: 0 10px  ; 
+    text-decoration: none;
+}   
+
+.clear{
+   clear:both; 
+}
+
